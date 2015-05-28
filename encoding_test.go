@@ -25,7 +25,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/go-hodor/hador"
+	"github.com/Xuyuanp/hador"
 	"github.com/smartystreets/goconvey/convey"
 )
 

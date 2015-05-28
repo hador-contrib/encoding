@@ -24,7 +24,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/go-hodor/hador"
+	"github.com/Xuyuanp/hador"
 )
 
 const (
